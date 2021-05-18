@@ -11,4 +11,5 @@ new new new
 branch celue
 git has a mutable index called stage.
 test
+git tracks change of 
 
