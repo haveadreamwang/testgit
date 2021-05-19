@@ -13,3 +13,4 @@ git has a mutable index called stage.
 test
 git tracks change of 
 
+Creating a new branch is quick.
